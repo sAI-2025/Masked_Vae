@@ -42,6 +42,7 @@ Masked VAE helps to restore integrity in such datasets — boosting performance 
 Masked\_Vae/
 │
 ├── notebook55e81a0cef.ipynb     # Main implementation and experiments
+├── requirements.txt
 ├── .gitignore
 ├── LICENSE
 └── README.md                    # You're here!
